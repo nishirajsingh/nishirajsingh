@@ -99,36 +99,17 @@ Python + Selenium automation tool with GUI support and validation features.
   <img width="100%" src="https://leetcard.jacoblin.cool/nishirajsingh?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishirajsingh&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=nishirajsingh&theme=highcontrast&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishirajsingh&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishirajsingh&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishirajsingh&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishirajsingh&theme=github_dark" />
-</p>
-
-
 ---
 
 <h1 align="center">🏆 Certifications</h1>
 
 <p align="center">
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="280"/>
-  <img src="https://nishiraj.vercel.app/images/certs/1781070499041-NOC26CS35S248540185804256586_page-0001.jpg" width="280"/>
+  <img src="https://images.credly.com/size/680x680/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="280"/>
 </p>
 
 <p align="center">
-  <img src="https://nishiraj.vercel.app/images/certs/CEH-nptel.png" width="280"/>
+  <img src="https://nishiraj.vercel.app/images/certs/1781070499041-NOC26CS35S248540185804256586_page-0001.jpg" width="280"/>
   <img src="https://nishiraj.vercel.app/images/certs/Cyber-security-nptel.png" width="280"/>
 </p>
 
